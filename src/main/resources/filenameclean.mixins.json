@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "com.teampotato.filenameclean.mixin",
+  "plugin": "com.teampotato.filenameclean.mixin.CleanProcesser",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
